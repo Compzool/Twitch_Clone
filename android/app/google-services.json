@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554636565729",
+    "project_id": "twitch-20cab",
+    "storage_bucket": "twitch-20cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554636565729:android:363504a85ddac65a4deba0",
+        "android_client_info": {
+          "package_name": "com.example.twitch_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554636565729-8motrgr4lst5sbjjh02e0ogmr2j2euq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALz3RH51AxbXW4Q33avJCyj3r6HpVjwjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554636565729-8motrgr4lst5sbjjh02e0ogmr2j2euq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
